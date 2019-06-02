@@ -1,4 +1,4 @@
-# internet-IST
+# Internet-IST
 
 ### Term 2 Assessment - Issey Rollison
 
