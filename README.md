@@ -16,5 +16,5 @@ The website contains an index file and three other pages in this package.
 - How can the Internet accessed?
 - How to use the Internet?
 
-#### Page 4 - Controll
+#### Page 4 - Control
 - How is access to information on the Internet controlled?
