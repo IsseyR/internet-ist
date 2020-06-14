@@ -5,7 +5,7 @@ ScrollReveal().reveal('.question', {
   origin: 'bottom',
   distance: '20px',
   viewOffset: {
-    bottom: 100,
+    bottom: 50,
   }}
 );
 ScrollReveal().reveal('.questionAns', {
@@ -14,7 +14,7 @@ ScrollReveal().reveal('.questionAns', {
   origin: 'bottom',
   distance: '20px',
   viewOffset: {
-    bottom: 100,
+    bottom: 50,
   }}
 );
 ScrollReveal().reveal('.descriptions', {
@@ -23,7 +23,7 @@ ScrollReveal().reveal('.descriptions', {
   origin: 'bottom',
   distance: '20px',
   viewOffset: {
-    bottom: 100,
+    bottom: 50,
   }}
 );
 ScrollReveal().reveal('.internetDiagram', {
@@ -31,7 +31,7 @@ ScrollReveal().reveal('.internetDiagram', {
   reset: true,
   scale: '0.7',
   viewOffset: {
-    bottom: 100,
+    bottom: 50,
   }}
 );
 ScrollReveal().reveal('.internetYoutube', {
@@ -39,6 +39,6 @@ ScrollReveal().reveal('.internetYoutube', {
   reset: true,
   scale: '0.7',
   viewOffset: {
-    bottom: 300,
+    bottom: 50,
   }}
 );
