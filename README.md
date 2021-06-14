@@ -18,3 +18,7 @@ The website contains an index file and three other pages in this package.
 
 #### Page 4 - Control
 - How is access to information on the Internet controlled?
+
+
+## URL
+https://isseyr.github.io/internet-ist/
